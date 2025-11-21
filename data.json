@@ -1,0 +1,50 @@
+[
+{
+    "nome":"Castlevania: Symphony of the Night",
+    "ano": 1997,
+    "plataforma": "Playstation",
+    "link": "https://pt.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night"
+},
+{
+    "nome": "Super Mario Bros.",
+    "ano": 1985,
+    "plataforma": "Super Nintendo",
+    "link": "https://pt.wikipedia.org/wiki/Super_Mario_Bros."
+},
+{
+    "nome": "Chrono Trigger",
+    "ano": 1995,
+    "plataforma": "Super Nintendo",
+    "link": "https://pt.wikipedia.org/wiki/Chrono_Trigger"
+},
+{
+    "nome": "The Legend of Zelda: A Link to the Past",
+    "ano": 1991,
+    "plataforma": "Super Nintendo",
+    "link": "https://pt.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past"
+},
+{
+    "nome": "Super Metroid",
+    "ano": 1994,
+    "plataforma": "Super Nintendo",
+    "link": "https://pt.wikipedia.org/wiki/Super_Metroid"
+},
+{
+    "nome": "Mega Man X",
+    "ano": 1993,
+    "plataforma": "Super Nintendo",
+    "link": "https://pt.wikipedia.org/wiki/Mega_Man_X"
+},
+{
+    "nome": "Sonic the Hedgehog 2",
+    "ano": 1992,
+    "plataforma": "Mega Drive",
+    "link": "https://pt.wikipedia.org/wiki/Sonic_the_Hedgehog_2"
+},
+{
+    "nome": "Street Fighter II",
+    "ano": 1991,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Street_Fighter_II"
+}
+]
