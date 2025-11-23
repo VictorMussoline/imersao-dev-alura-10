@@ -137,46 +137,59 @@ main {
     padding: 0 1rem;
     flex: 1; 
     width: 100%;
+    padding-bottom: 10rem;
 }
 
-article {
+.card {
     padding: 1.5rem;
     margin-bottom: 2rem;
     border: var(--border-style);
     box-shadow: 4px 4px 0 0 var(--green-crt);
     transition: transform 0.2s, box-shadow 0.2s;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-article:hover {
+.card:hover {
     transform: translate(-4px, -4px);
     box-shadow: 8px 8px 0 0 var(--8-bit-blue);
     cursor: pointer;
 }
 
-article h2 {
+.card h2 {
     font-family: 'Press Start 2P', cursive;
     font-size: 1.5rem;
     color: var(--8-bit-blue);
     margin-bottom: 1rem;
 }
 
-article p {
+.card p {
     line-height: 1.6;
     margin-bottom: 0.5rem;
 }
 
-article p strong {
+.card p strong {
     color: var(--lime-green-matte);
     font-weight: normal;
 }
 
-article a {
+.card a {
     color: var(--pixel-red);
     text-decoration: none;
 }
 
-article a:hover {
+.card a:hover {
     text-decoration: underline;
+}
+
+.card-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-left: 1rem;
+    border: var(--border-style);
+    flex-shrink: 0;
 }
 
 .footer {
@@ -186,6 +199,8 @@ article a:hover {
     border-top: var(--border-style);
     box-shadow: 0 -4px 0 0 var(--green-crt);
     background-color: var(--black);
+    position: fixed;
+    bottom: 0;
 }
 
 .footer-links {
@@ -256,7 +271,7 @@ article a:hover {
         padding: 10px;
     }
 
-    article h2 {
+    .card h2 {
         font-size: 1.2rem;
     }
 }

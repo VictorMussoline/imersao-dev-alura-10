@@ -1,50 +1,650 @@
 [
-{
-    "nome":"Castlevania: Symphony of the Night",
+  {
+    "nome": "1942",
+    "ano": 1984,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/1942_(video_game)"
+  },
+  {
+    "nome": "Age of Empires II: The Age of Kings",
+    "ano": 1999,
+    "plataforma": "PC",
+    "link": "https://pt.wikipedia.org/wiki/Age_of_Empires_II:_The_Age_of_Kings"
+  },
+  {
+    "nome": "Aladdin",
+    "ano": 1993,
+    "plataforma": "Sega Genesis",
+    "link": "https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(video_game)"
+  },
+  {
+    "nome": "Alex Kidd in Miracle World",
+    "ano": 1986,
+    "plataforma": "Master System",
+    "link": "https://pt.wikipedia.org/wiki/Alex_Kidd_in_Miracle_World"
+  },
+  {
+    "nome": "Alien vs. Predator",
+    "ano": 1994,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Alien_vs._Predator_(1994_video_game)"
+  },
+  {
+    "nome": "Altered Beast",
+    "ano": 1988,
+    "plataforma": "Mega Drive",
+    "link": "https://pt.wikipedia.org/wiki/Altered_Beast"
+  },
+  {
+    "nome": "Armored Warriors",
+    "ano": 1994,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Armored_Warriors"
+  },
+  {
+    "nome": "Baldur's Gate",
+    "ano": 1998,
+    "plataforma": "PC",
+    "link": "https://pt.wikipedia.org/wiki/Baldur%27s_Gate"
+  },
+  {
+    "nome": "Blaster Master",
+    "ano": 1988,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Blaster_Master"
+  },
+  {
+    "nome": "Bomberman",
+    "ano": 1983,
+    "plataforma": "PC",
+    "link": "https://en.wikipedia.org/wiki/Bomberman"
+  },
+  {
+    "nome": "Cadillacs and Dinosaurs",
+    "ano": 1993,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Cadillacs_and_Dinosaurs_(video_game)"
+  },
+  {
+    "nome": "Captain Commando",
+    "ano": 1991,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Captain_Commando"
+  },
+  {
+    "nome": "Castlevania",
+    "ano": 1986,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)"
+  },
+  {
+    "nome": "Castlevania III: Dracula's Curse",
+    "ano": 1989,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Castlevania_III:_Dracula%27s_Curse"
+  },
+  {
+    "nome": "Castlevania: Symphony of the Night",
     "ano": 1997,
     "plataforma": "Playstation",
     "link": "https://pt.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night"
-},
-{
-    "nome": "Super Mario Bros.",
-    "ano": 1985,
-    "plataforma": "Super Nintendo",
-    "link": "https://pt.wikipedia.org/wiki/Super_Mario_Bros."
-},
-{
+  },
+  {
+    "nome": "Chrono Cross",
+    "ano": 1999,
+    "plataforma": "PlayStation",
+    "link": "https://en.wikipedia.org/wiki/Chrono_Cross"
+  },
+  {
     "nome": "Chrono Trigger",
     "ano": 1995,
     "plataforma": "Super Nintendo",
     "link": "https://pt.wikipedia.org/wiki/Chrono_Trigger"
-},
-{
-    "nome": "The Legend of Zelda: A Link to the Past",
-    "ano": 1991,
-    "plataforma": "Super Nintendo",
-    "link": "https://pt.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past"
-},
-{
-    "nome": "Super Metroid",
+  },
+  {
+    "nome": "Clock Tower",
+    "ano": 1995,
+    "plataforma": "SNES",
+    "link": "https://en.wikipedia.org/wiki/Clock_Tower_(1995_video_game)"
+  },
+  {
+    "nome": "Comix Zone",
+    "ano": 1995,
+    "plataforma": "Mega Drive",
+    "link": "https://pt.wikipedia.org/wiki/Comix_Zone"
+  },
+  {
+    "nome": "Contra",
+    "ano": 1987,
+    "plataforma": "NES",
+    "link": "https://pt.wikipedia.org/wiki/Contra_(jogo_eletr%C3%B4nico)"
+  },
+  {
+    "nome": "Cyberbots: Full Metal Madness",
+    "ano": 1995,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Cyberbots:_Full_Metal_Madness"
+  },
+  {
+    "nome": "Darkstalkers: The Night Warriors",
+    "ano": 1994,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Darkstalkers:_The_Night_Warriors"
+  },
+  {
+    "nome": "Diablo",
+    "ano": 1996,
+    "plataforma": "PC",
+    "link": "https://pt.wikipedia.org/wiki/Diablo_(jogo_eletr%C3%B4nico)"
+  },
+  {
+    "nome": "Donkey Kong",
+    "ano": 1981,
+    "plataforma": "Arcade",
+    "link": "https://pt.wikipedia.org/wiki/Donkey_Kong_(jogo_eletr%C3%B4nico)"
+  },
+  {
+    "nome": "Donkey Kong Country",
     "ano": 1994,
     "plataforma": "Super Nintendo",
-    "link": "https://pt.wikipedia.org/wiki/Super_Metroid"
-},
-{
+    "link": "https://pt.wikipedia.org/wiki/Donkey_Kong_Country"
+  },
+  {
+    "nome": "Double Dragon",
+    "ano": 1987,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Double_Dragon"
+  },
+  {
+    "nome": "Doom",
+    "ano": 1993,
+    "plataforma": "PC",
+    "link": "https://pt.wikipedia.org/wiki/Doom"
+  },
+  {
+    "nome": "Duck Hunt",
+    "ano": 1984,
+    "plataforma": "NES",
+    "link": "https://pt.wikipedia.org/wiki/Duck_Hunt"
+  },
+  {
+    "nome": "Dungeons & Dragons: Shadow over Mystara",
+    "ano": 1996,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Shadow_over_Mystara"
+  },
+  {
+    "nome": "Dungeons & Dragons: Tower of Doom",
+    "ano": 1993,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Tower_of_Doom"
+  },
+  {
+    "nome": "Earthworm Jim",
+    "ano": 1994,
+    "plataforma": "Mega Drive",
+    "link": "https://pt.wikipedia.org/wiki/Earthworm_Jim"
+  },
+  {
+    "nome": "Excitebike",
+    "ano": 1984,
+    "plataforma": "NES",
+    "link": "https://pt.wikipedia.org/wiki/Excitebike"
+  },
+  {
+    "nome": "F-Zero",
+    "ano": 1990,
+    "plataforma": "Super Nintendo",
+    "link": "https://pt.wikipedia.org/wiki/F-Zero"
+  },
+  {
+    "nome": "Final Fantasy VI",
+    "ano": 1994,
+    "plataforma": "SNES",
+    "link": "https://en.wikipedia.org/wiki/Final_Fantasy_VI"
+  },
+  {
+    "nome": "Final Fantasy VII",
+    "ano": 1997,
+    "plataforma": "Playstation",
+    "link": "https://pt.wikipedia.org/wiki/Final_Fantasy_VII"
+  },
+  {
+    "nome": "Galaga",
+    "ano": 1981,
+    "plataforma": "Arcade",
+    "link": "https://pt.wikipedia.org/wiki/Galaga"
+  },
+  {
+    "nome": "Ghosts 'n Goblins",
+    "ano": 1985,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Ghosts_%27n_Goblins"
+  },
+  {
+    "nome": "Ghouls 'n Ghosts",
+    "ano": 1988,
+    "plataforma": "Arcade",
+    "link": "https://pt.wikipedia.org/wiki/Ghouls_%27n_Ghosts"
+  },
+  {
+    "nome": "Golden Axe",
+    "ano": 1989,
+    "plataforma": "Mega Drive",
+    "link": "https://pt.wikipedia.org/wiki/Golden_Axe"
+  },
+  {
+    "nome": "GoldenEye 007",
+    "ano": 1997,
+    "plataforma": "Nintendo 64",
+    "link": "https://pt.wikipedia.org/wiki/GoldenEye_007"
+  },
+  {
+    "nome": "Gradius",
+    "ano": 1985,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Gradius"
+  },
+  {
+    "nome": "Grand Theft Auto III",
+    "ano": 2001,
+    "plataforma": "PlayStation 2",
+    "link": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III"
+  },
+  {
+    "nome": "Grim Fandango",
+    "ano": 1998,
+    "plataforma": "PC",
+    "link": "https://pt.wikipedia.org/wiki/Grim_Fandango"
+  },
+  {
+    "nome": "Half-Life",
+    "ano": 1998,
+    "plataforma": "PC",
+    "link": "https://pt.wikipedia.org/wiki/Half-Life"
+  },
+  {
+    "nome": "Halo: Combat Evolved",
+    "ano": 2001,
+    "plataforma": "Xbox",
+    "link": "https://en.wikipedia.org/wiki/Halo:_Combat_Evolved"
+  },
+  {
+    "nome": "Jackal",
+    "ano": 1986,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Jackal_(video_game)"
+  },
+  {
+    "nome": "Jurassic Park",
+    "ano": 1993,
+    "plataforma": "Sega Genesis",
+    "link": "https://en.wikipedia.org/wiki/Jurassic_Park_(Sega_video_game)"
+  },
+  {
+    "nome": "Kirby's Adventure",
+    "ano": 1993,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Kirby%27s_Adventure"
+  },
+  {
+    "nome": "Knights of the Round",
+    "ano": 1991,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Knights_of_the_Round_(video_game)"
+  },
+  {
+    "nome": "Legendary Wings",
+    "ano": 1986,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Legendary_Wings"
+  },
+  {
+    "nome": "Life Force",
+    "ano": 1986,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Salamander_(video_game)"
+  },
+  {
+    "nome": "Mario Kart 64",
+    "ano": 1996,
+    "plataforma": "Nintendo 64",
+    "link": "https://pt.wikipedia.org/wiki/Mario_Kart_64"
+  },
+  {
+    "nome": "Marvel Super Heroes",
+    "ano": 1995,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Marvel_Super_Heroes_(video_game)"
+  },
+  {
+    "nome": "Marvel Super Heroes vs. Street Fighter",
+    "ano": 1997,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Marvel_Super_Heroes_vs._Street_Fighter"
+  },
+  {
+    "nome": "Marvel vs. Capcom: Clash of Super Heroes",
+    "ano": 1998,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Marvel_vs._Capcom:_Clash_of_Super_Heroes"
+  },
+  {
+    "nome": "Mega Man",
+    "ano": 1987,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Mega_Man"
+  },
+  {
+    "nome": "Mega Man 2",
+    "ano": 1988,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Mega_Man_2"
+  },
+  {
     "nome": "Mega Man X",
     "ano": 1993,
     "plataforma": "Super Nintendo",
     "link": "https://pt.wikipedia.org/wiki/Mega_Man_X"
-},
-{
+  },
+  {
+    "nome": "Metal Gear Solid",
+    "ano": 1998,
+    "plataforma": "Playstation",
+    "link": "https://pt.wikipedia.org/wiki/Metal_Gear_Solid"
+  },
+  {
+    "nome": "Metal Slug",
+    "ano": 1996,
+    "plataforma": "Neo Geo",
+    "link": "https://en.wikipedia.org/wiki/Metal_Slug_(1996_video_game)"
+  },
+  {
+    "nome": "Metroid",
+    "ano": 1986,
+    "plataforma": "NES",
+    "link": "https://pt.wikipedia.org/wiki/Metroid"
+  },
+  {
+    "nome": "Micro Machines",
+    "ano": 1991,
+    "plataforma": "Sega Genesis",
+    "link": "https://en.wikipedia.org/wiki/Micro_Machines_(video_game)"
+  },
+  {
+    "nome": "Mike Tyson's Punch-Out!!",
+    "ano": 1987,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Punch-Out!!_(NES)"
+  },
+  {
+    "nome": "Mortal Kombat",
+    "ano": 1992,
+    "plataforma": "Arcade",
+    "link": "https://pt.wikipedia.org/wiki/Mortal_Kombat_(jogo_eletr%C3%B4nico_de_1992)"
+  },
+  {
+    "nome": "Ninja Gaiden",
+    "ano": 1988,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Ninja_Gaiden_(NES_video_game)"
+  },
+  {
+    "nome": "Night Warriors: Darkstalkers' Revenge",
+    "ano": 1995,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Night_Warriors:_Darkstalkers%27_Revenge"
+  },
+  {
+    "nome": "Out Run",
+    "ano": 1986,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Out_Run"
+  },
+  {
+    "nome": "Pac-Man",
+    "ano": 1980,
+    "plataforma": "Arcade",
+    "link": "https://pt.wikipedia.org/wiki/Pac-Man"
+  },
+  {
+    "nome": "Phantasy Star",
+    "ano": 1987,
+    "plataforma": "Master System",
+    "link": "https://pt.wikipedia.org/wiki/Phantasy_Star_(jogo_eletr%C3%B4nico)"
+  },
+  {
+    "nome": "Pong",
+    "ano": 1972,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Pong"
+  },
+  {
+    "nome": "Prince of Persia",
+    "ano": 1989,
+    "plataforma": "PC",
+    "link": "https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game)"
+  },
+  {
+    "nome": "Punch-Out!!",
+    "ano": 1987,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Punch-Out!!_(NES)"
+  },
+  {
+    "nome": "Quake",
+    "ano": 1996,
+    "plataforma": "PC",
+    "link": "https://pt.wikipedia.org/wiki/Quake_(jogo_eletr%C3%B4nico)"
+  },
+  {
+    "nome": "R-Type",
+    "ano": 1987,
+    "plataforma": "Arcade",
+    "link": "https://pt.wikipedia.org/wiki/R-Type"
+  },
+  {
+    "nome": "Resident Evil 2",
+    "ano": 1998,
+    "plataforma": "Playstation",
+    "link": "https://pt.wikipedia.org/wiki/Resident_Evil_2"
+  },
+  {
+    "nome": "River City Ransom",
+    "ano": 1989,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/River_City_Ransom"
+  },
+  {
+    "nome": "Rygar",
+    "ano": 1986,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Rygar"
+  },
+  {
+    "nome": "Section Z",
+    "ano": 1985,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Section_Z"
+  },
+  {
+    "nome": "Shadow of the Colossus",
+    "ano": 2005,
+    "plataforma": "PlayStation 2",
+    "link": "https://en.wikipedia.org/wiki/Shadow_of_the_Colossus"
+  },
+  {
+    "nome": "Shinobi",
+    "ano": 1987,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Shinobi_(1987_video_game)"
+  },
+  {
+    "nome": "SimCity",
+    "ano": 1989,
+    "plataforma": "PC",
+    "link": "https://en.wikipedia.org/wiki/SimCity_(1989_video_game)"
+  },
+  {
     "nome": "Sonic the Hedgehog 2",
     "ano": 1992,
     "plataforma": "Mega Drive",
     "link": "https://pt.wikipedia.org/wiki/Sonic_the_Hedgehog_2"
-},
-{
+  },
+  {
+    "nome": "Space Invaders",
+    "ano": 1978,
+    "plataforma": "Arcade",
+    "link": "https://pt.wikipedia.org/wiki/Space_Invaders"
+  },
+  {
+    "nome": "Star Fox 64",
+    "ano": 1997,
+    "plataforma": "Nintendo 64",
+    "link": "https://pt.wikipedia.org/wiki/Star_Fox_64"
+  },
+  {
+    "nome": "StarCraft",
+    "ano": 1998,
+    "plataforma": "PC",
+    "link": "https://pt.wikipedia.org/wiki/StarCraft"
+  },
+  {
     "nome": "Street Fighter II",
     "ano": 1991,
     "plataforma": "Arcade",
     "link": "https://en.wikipedia.org/wiki/Street_Fighter_II"
-}
+  },
+  {
+    "nome": "Strider",
+    "ano": 1989,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Strider_(1989_video_game)"
+  },
+  {
+    "nome": "Super Mario Bros.",
+    "ano": 1985,
+    "plataforma": "Super Nintendo",
+    "link": "https://pt.wikipedia.org/wiki/Super_Mario_Bros."
+  },
+  {
+    "nome": "Super Mario Bros. 3",
+    "ano": 1988,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3"
+  },
+  {
+    "nome": "Super Mario World",
+    "ano": 1990,
+    "plataforma": "Super Nintendo",
+    "link": "https://pt.wikipedia.org/wiki/Super_Mario_World"
+  },
+  {
+    "nome": "Super Metroid",
+    "ano": 1994,
+    "plataforma": "Super Nintendo",
+    "link": "https://pt.wikipedia.org/wiki/Super_Metroid"
+  },
+  {
+    "nome": "Sweet Home",
+    "ano": 1989,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Sweet_Home_(video_game)"
+  },
+  {
+    "nome": "Tecmo Super Bowl",
+    "ano": 1991,
+    "plataforma": "NES",
+    "link": "https://en.wikipedia.org/wiki/Tecmo_Super_Bowl"
+  },
+  {
+    "nome": "Teenage Mutant Ninja Turtles",
+    "ano": 1989,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(arcade_game)"
+  },
+  {
+    "nome": "Tetris",
+    "ano": 1989,
+    "plataforma": "Game Boy",
+    "link": "https://pt.wikipedia.org/wiki/Tetris"
+  },
+  {
+    "nome": "The King of Dragons",
+    "ano": 1991,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/The_King_of_Dragons"
+  },
+  {
+    "nome": "The Legend of Zelda: A Link to the Past",
+    "ano": 1991,
+    "plataforma": "Super Nintendo",
+    "link": "https://pt.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past"
+  },
+  {
+    "nome": "The Legend of Zelda: Majora's Mask",
+    "ano": 2000,
+    "plataforma": "Nintendo 64",
+    "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask"
+  },
+  {
+    "nome": "The Legend of Zelda: Ocarina of Time",
+    "ano": 1998,
+    "plataforma": "Nintendo 64",
+    "link": "https://pt.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time"
+  },
+  {
+    "nome": "The Oregon Trail",
+    "ano": 1971,
+    "plataforma": "PC",
+    "link": "https://en.wikipedia.org/wiki/The_Oregon_Trail_(1971_video_game)"
+  },
+  {
+    "nome": "The Punisher",
+    "ano": 1993,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/The_Punisher_(1993_video_game)"
+  },
+  {
+    "nome": "The Secret of Monkey Island",
+    "ano": 1990,
+    "plataforma": "PC",
+    "link": "https://pt.wikipedia.org/wiki/The_Secret_of_Monkey_Island"
+  },
+  {
+    "nome": "TMNT IV: Turtles in Time",
+    "ano": 1991,
+    "plataforma": "SNES",
+    "link": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Turtles_in_Time"
+  },
+  {
+    "nome": "Vampire Savior: The Lord of Vampire",
+    "ano": 1997,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Vampire_Savior"
+  },
+  {
+    "nome": "Warriors of Fate",
+    "ano": 1992,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/Warriors_of_Fate"
+  },
+  {
+    "nome": "Wonder Boy in Monster Land",
+    "ano": 1987,
+    "plataforma": "Master System",
+    "link": "https://pt.wikipedia.org/wiki/Wonder_Boy_in_Monster_Land"
+  },
+  {
+    "nome": "X-Men: Children of the Atom",
+    "ano": 1994,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/X-Men:_Children_of_the_Atom"
+  },
+  {
+    "nome": "X-Men vs. Street Fighter",
+    "ano": 1996,
+    "plataforma": "Arcade",
+    "link": "https://en.wikipedia.org/wiki/X-Men_vs._Street_Fighter"
+  }
 ]

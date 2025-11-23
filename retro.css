@@ -48,7 +48,7 @@
   padding: 15px 25px;
   cursor: pointer;
   font-family: 'Press Start 2P';
-  animation: blink 1s infinite;
+  animation: blink 1.3s infinite;
 }
 
 @keyframes blink {

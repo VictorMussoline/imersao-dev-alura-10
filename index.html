@@ -24,15 +24,13 @@
       <h1 class="logo">CENTRAL DE GAMES</h1>
       <button id="start-btn" class="start-btn">PRESS START</button>
     </div>
-    <audio id="start-sound" src="assets/sounds/start-8bit.mp3"></audio>
   </div>
 
   <!-- SEU SITE ORIGINAL -->
   <header>
     <h1>Melhores Jogos Retrôs</h1>
     <div class="search-container">
-      <input type="text" placeholder="Busque por um jogo">
-      <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+      <input type="text" placeholder="Busque por um jogo" onkeyup="iniciarBusca()">
     </div>
   </header>
 
@@ -48,6 +46,9 @@
       <li><a href="" target="_blank">Certificado Alura!</a></li>
     </ul>
   </footer>
+
+  <audio id="start-sound" src="assets/sounds/start-8bit.mp3"></audio>
+  <audio id="background-music" src="assets/sounds/background-8bit.mp3" loop></audio>
 
   <!-- JS overlay -->
   <script src="script.js"></script>
