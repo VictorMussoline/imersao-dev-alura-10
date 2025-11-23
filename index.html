@@ -1,40 +1,57 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Base de Conhecimento 2</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- CSS original -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- CSS da tela retrô -->
+  <link rel="stylesheet" href="retro.css">
+
+  <!-- Fonte pixelada -->
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+  <title>Jogos Retrô</title>
 </head>
 <body>
-    <header>
-        <h1>Base de Conhecimento</h1>
-        <div class="search-container">
-            <input type="text" placeholder="Busque por um jogo">
-            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
-        </div>
-    </header>
 
-    <main>
-        <section class="card-container">
+  <!-- OVERLAY RETRÔ -->
+  <div id="start-overlay">
+    <div id="tv-on"></div>
+    <div class="start-screen">
+      <h1 class="logo">CENTRAL DE GAMES</h1>
+      <button id="start-btn" class="start-btn">PRESS START</button>
+    </div>
+    <audio id="start-sound" src="assets/sounds/start-8bit.mp3"></audio>
+  </div>
 
-        </section>
-    </main>
+  <!-- SEU SITE ORIGINAL -->
+  <header>
+    <h1>Melhores Jogos Retrôs</h1>
+    <div class="search-container">
+      <input type="text" placeholder="Busque por um jogo">
+      <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+    </div>
+  </header>
 
-    <footer class="footer">
-        <div class="footer-location">Feito por Victor Mussoline</div>
-        <ul class="footer-links">
-            <li>
-                <a href="https://github.com/VictorMussoline" target="_blank">GitHub</a>
-            </li>
-            <li>
-                <a href="https://www.linkedin.com/in/victormussoline/" target="_blank">LinkedIn</a>
-            </li>
-                <li>
-                <a href="" target="_blank">Certificado Alura!</a>
-            </li>
-        </ul>
-    </footer>
-    <script src="script.js"></script>
+  <main>
+    <section class="card-container"></section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-location">Feito por Victor Mussoline</div>
+    <ul class="footer-links">
+      <li><a href="https://github.com/VictorMussoline" target="_blank">GitHub</a></li>
+      <li><a href="https://www.linkedin.com/in/victormussoline/" target="_blank">LinkedIn</a></li>
+      <li><a href="" target="_blank">Certificado Alura!</a></li>
+    </ul>
+  </footer>
+
+  <!-- JS overlay -->
+  <script src="script.js"></script>
+  <!-- JS original que carrega os jogos -->
+  <script src="meuScriptOriginal.js"></script>
 </body>
 </html>

@@ -1,0 +1,81 @@
+/* Overlay retrô */
+#start-overlay {
+  position: fixed;
+  inset: 0;
+  background: black;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+/* TV ligando */
+#tv-on {
+  position: absolute;
+  inset: 0;
+  background: black;
+  animation: tvOnAnim 1.2s ease-out forwards;
+}
+
+@keyframes tvOnAnim {
+  0% { transform: scaleY(0); opacity: 1; }
+  30% { transform: scaleY(0.02); }
+  60% { transform: scaleY(1.1); }
+  100% { opacity: 0; visibility: hidden; }
+}
+
+/* Tela inicial */
+.start-screen {
+  position: relative;
+  text-align: center;
+  z-index: 20;
+  font-family: 'Press Start 2P', monospace;
+}
+
+.logo {
+  color: #00ffcc;
+  font-size: 24px;
+  margin-bottom: 40px;
+  text-shadow: 0 0 8px #00ffaa;
+}
+
+/* Botão PRESS START piscando */
+.start-btn {
+  background: transparent;
+  border: 2px solid #00ff88;
+  color: #00ff88;
+  padding: 15px 25px;
+  cursor: pointer;
+  font-family: 'Press Start 2P';
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0.3; }
+}
+
+/* CRT apenas no overlay */
+#start-overlay::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    to bottom,
+    rgba(255,255,255,0.05) 0px,
+    rgba(255,255,255,0.05) 2px,
+    rgba(0,0,0,0.05) 2px,
+    rgba(0,0,0,0.05) 4px
+  );
+  mix-blend-mode: overlay;
+  opacity: 0.25;
+  animation: crtAnim 0.18s infinite;
+}
+
+@keyframes crtAnim {
+  0%   { opacity: 0.20; }
+  50%  { opacity: 0.27; }
+  100% { opacity: 0.22; }
+}
